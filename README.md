@@ -8,10 +8,10 @@ Sistema de comercio electrónico desarrollado en Java como proyecto final del cu
 
 | Nombre completo | Usuario GitHub |
 |---|---|
-| Sebastian Berrio | @usuario1 |
-| Geiner Garcia | @usuario2 |
-| Marcos Torrealba| @usuario3 |
-| Alfonso Acoosta | @usuario4 |
+| Sebastian Berrio | @ |
+| Geiner Garcia | @geinergarciag|
+| Marcos Torrealba| @marcostorrealba3324 |
+| Alfonso Acoosta | @alfoac |
 
 ---
 
